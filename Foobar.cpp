@@ -1,1 +1,4 @@
-What is the default handler for this file type / 
+// Hello World
+// This is a comment
+/* Does this get recognized as a comment */
+# 
